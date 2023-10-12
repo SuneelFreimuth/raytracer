@@ -1,4 +1,4 @@
-# Pathtracer
+# Raytracer
 
 A multithreaded CPU-driven raytracer using pathtracing.
 
